@@ -41,6 +41,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
+gem 'rgeo'
 gem 'rgeo-geojson'
 
 
